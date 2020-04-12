@@ -59,4 +59,10 @@
             width: 50%;
             font-family: sans-serif;
         }
+
+        .btn{
+            font-size: bold;
+            font-style: italic;
+            font-weight: bold;
+        }
     
